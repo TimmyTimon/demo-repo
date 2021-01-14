@@ -14,3 +14,6 @@ Back again doing some git revison!
 
 ## Subheader4
 Another Git revision tutorial.
+
+## Feature module snippet
+This is a feature trial line.
